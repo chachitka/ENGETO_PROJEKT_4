@@ -23,6 +23,8 @@ Projekt je určen jako ukázka praktického použití SQL jazyka a práce s data
 4.	czechia_price_category – Číselník kategorií potravin, které se vyskytují v našem přehledu,
 5. 	economies - HDP, GINI, daňová zátěž, atd. pro daný stát a rok.
 
+---
+
 ## Výzkumné otázky
 
 V projektu se hledaly odpovědi na otázky:
@@ -33,6 +35,7 @@ V projektu se hledaly odpovědi na otázky:
 4.	Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)? 
 5.	Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem? 
 
+---
 
 ## Struktura projektu
 
