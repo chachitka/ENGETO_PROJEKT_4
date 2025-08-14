@@ -64,11 +64,6 @@ Tento projekt vznikl v rámci studia jazyka SQL a práce s databázemi. Cíle by
 Pokud máš otázky nebo zpětnou vazbu:
 📧 l.krcmarikova@seznam.cz 
 
----
-
-📌 Poznámka:
-Tento skript není určen pro masové stahování dat. Prosím, respektuj pravidla webu, 
-ze kterého data čerpáš (robots.txt, fair use).
 
 ---
 Tento projekt je dostupný pod [MIT licencí](LICENSE).
